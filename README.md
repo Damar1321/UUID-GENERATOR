@@ -12,3 +12,6 @@ Test apk
 <br>
 test project <em>(SUPPORT ANDROID STUDIO)</em>
 <h2><a href="https://github.com/Damar1321/UUID-GENERATOR/blob/main/apk-release/uuidgeneratorapi.zip?raw=true">CLICK HERE</a> TO DOWNLOAD
+<br>
+<br>
+<h6>https://github.com/Damar1321/UUID-GENERATOR/releases/tag/TESTAPK</h6>
