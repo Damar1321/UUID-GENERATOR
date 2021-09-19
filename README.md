@@ -9,4 +9,5 @@ https://www.uuidgenerator.net/api/version4
 
 
 test project <em>(SUPPORT ANDROID STUDIO)</em>
-https://github.com/Damar1321/UUID-GENERATOR/blob/main/apk-release/uuidgeneratorapi.zip
+
+<h2><a href="https://github.com/Damar1321/UUID-GENERATOR/blob/main/apk-release/uuidgeneratorapi.zip?raw=true">CLICK HERE</a> TO DOWNLOAD
